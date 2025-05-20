@@ -1,16 +1,15 @@
-## Hi there 👋
+# Gustavo da Silva Barbosa
 
+**`Estudante de Tecnologia`**
+
+Eu sou um estudante do Ensino Medio, tenho diversos cursos finalizados na plataforma Alura, muitos deles sobre backending e frontline.
+
+---
+
+
+#
 <!--
-**2GUS2/2GUS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+ <summary><h3>👨‍💻 Gustavo's Coding Journey</h3></summary>
+   em desenvolvimento
+   --->
