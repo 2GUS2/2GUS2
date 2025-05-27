@@ -1,12 +1,14 @@
 # Gustavo da Silva Barbosa
 
-**`Estudante de Tecnologia`**
+**`Estudante`**
 
-Eu sou um estudante do Ensino Medio, tenho diversos cursos finalizados na plataforma Alura, muitos deles sobre backending e frontline.
+Eu sou um estudante do Ensino Medio, tenho diversos cursos finalizados na plataforma Alura, além de estar cursando Gestão Financeira, Inglês e Espanhol.
 
 ---
-
-
+# Cursando
+>`Inglês do básico ao avançado`
+>
+>`Gestão Financeira`
 #
 <!--
 <details>
