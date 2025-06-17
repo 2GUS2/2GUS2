@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Eu sou um estudante do Ensino Medio, tenho diversos cursos finalizados na plataforma Alura, além de estar cursando Gestão Financeira, Inglês e Espanhol.
+Eu sou um estudante do Ensino Medio e estou a procura de experiencias como profissional. Possuo alguns projetos feitos com o auxilio e a mando da plataforma Alura.
 
 ---
 # Cursando
